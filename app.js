@@ -1,3 +1,3 @@
 
-alert("uh-oh!")
+console.log("Hello my people");
 
